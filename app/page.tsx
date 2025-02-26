@@ -1,3 +1,4 @@
+"use client"
 import Image from "next/image"
 import { Nunito } from "next/font/google"
 
