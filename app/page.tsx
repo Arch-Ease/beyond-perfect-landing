@@ -16,7 +16,7 @@ export default function LandingPage() {
     >
       <div className="h-3/6 w-screen absolute top-96" style={{ backgroundImage: "url(/9851063.png)" }}></div>
 
-      <div className="h-screen overflow-clip lg:flex lg:flex-col  lg:justify-center px-4 py-8 md:px-8  lg:px-16 " >
+      <div className="h-screen md:overflow-clip lg:flex lg:flex-col  lg:justify-center px-4 py-8 md:px-8  lg:px-16 " >
         <div className="grid items-center gap-8 lg:grid-cols-2 lg:gap-16 ">
           {/* Left Column */}
           <div className="space-y-20 backdrop-blur-lg  backdrop-filter bg-black/20 p-8 rounded-lg lg:p-12">
